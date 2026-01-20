@@ -1,5 +1,5 @@
 MODEL 1 :
-Model klasifikasi biner menggunakan Logistic Regression untuk memprediksi variabel result, yang merepresentasikan apakah seorang user akan melakukan pembelian course di platform DigitalEdu. Fitur yang digunakan mencakup karakteristik demografis, latar belakang pendidikan, dan aktivitas pengguna.
+Model 1 menggunakan Logistic Regression untuk memprediksi variabel result, yang merepresentasikan apakah seorang user akan melakukan pembelian course di platform DigitalEdu. Fitur yang digunakan mencakup karakteristik demografis, latar belakang pendidikan, dan aktivitas pengguna.
 
 MODEL 2 :
 Model kedua memanfaatkan fitur latar belakang pendidikan untuk menganalisis korelasi antara tingkat pendidikan dan kecenderungan pembelian course.
